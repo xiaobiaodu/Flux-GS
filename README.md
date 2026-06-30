@@ -21,7 +21,13 @@
 
 Welcome to **watch** 👀 this repository for the latest updates.
 
+
+
+
+
 ✅ **[2026.6.30]** : You are free to use the ideas of Flux-GS for commercial usage.
+
+✅ **[2026.6.30]** : The code of our WebGL mobile renderer is realease, you can refer to [code](https://github.com/xiaobiaodu/flux-gs-project).
 
 ✅ **[2026.6.30]** : Release [project page](https://xiaobiaodu.github.io/flux-gs-project//).
 
@@ -69,6 +75,9 @@ python metrics.py -m <model path>
 Rendering with the compressed file (comp.xz), otherwise using the ply file. The results are the same regardless of this option.
 
 
+## Mobile Rendering
+
+Our WebGL mobile render is open to the public. The code is (here)[https://github.com/xiaobiaodu/flux-gs-project]
 
 ## 👍 **Acknowledgement**
 This work is built on many amazing research works and open-source projects, thanks a lot to all the authors for sharing!
