@@ -13,7 +13,7 @@
 
 ## 😮 Highlights
 
-![teaser](./asset/teaser.gif)
+![teaser](assets\teaser.gif)
 
 
 
