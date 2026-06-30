@@ -13,9 +13,8 @@
 
 ## 😮 Highlights
 
-![teaser](assets/teaser.gif)
-
-
+<!-- ![teaser](assets/teaser.gif) -->
+<img src="assets/teaser.gif" width="100%" alt="teaser">
 
 
 ## 🚩 **Updates**
