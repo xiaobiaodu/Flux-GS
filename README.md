@@ -4,7 +4,7 @@
 <h5 align="center">
 
 [![project](https://img.shields.io/badge/Webpage-blue)](https://xiaobiaodu.github.io/flux-gs-project/)
-[![arXiv](https://img.shields.io/badge/Arxiv-2603.11531-b31b1b.svg?logo=arXiv)](https://arxiv.org/abs/2603.11531)
+[![arXiv](https://img.shields.io/badge/Arxiv-2603.11531-b31b1b.svg?logo=arXiv)](https://arxiv.org/pdf/2606.30017)
 
 
 
@@ -22,11 +22,11 @@
 
 Welcome to **watch** 👀 this repository for the latest updates.
 
-✅ **[2026.3.13]** : You are free to use the ideas of Flux-GS for commercial usage.
+✅ **[2026.6.30]** : You are free to use the ideas of Flux-GS for commercial usage.
 
-✅ **[2026.3.13]** : Release [project page](https://xiaobiaodu.github.io/flux-gs-project//).
+✅ **[2026.6.30]** : Release [project page](https://xiaobiaodu.github.io/flux-gs-project//).
 
-✅ **[2026.3.13]** : Code Release. 
+✅ **[2026.6.30]** : Code Release. 
 
 
 
