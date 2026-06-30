@@ -13,8 +13,8 @@
 
 ## 😮 Highlights
 
-<!-- ![teaser](assets/teaser.gif) -->
-<img src="assets/teaser.gif" width="100%" alt="teaser">
+![teaser](assets\method.png)
+<!-- <img src="assets/teaser.gif" width="100%" alt="teaser"> -->
 
 
 ## 🚩 **Updates**
