@@ -76,7 +76,7 @@ Rendering with the compressed file (comp.xz), otherwise using the ply file. The 
 
 
 ## Mobile Rendering
-
+We save the trained Gaussian Splatting file as `.json` for better loading in WebGL with point cloud and MLP decompression. 
 Our WebGL mobile render is open to the public. The code is (here)[https://github.com/xiaobiaodu/flux-gs-project]
 
 ## 👍 **Acknowledgement**
