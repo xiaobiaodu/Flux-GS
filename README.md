@@ -13,7 +13,7 @@
 
 ## 😮 Highlights
 
-![teaser](assets\method.png)
+![teaser](assets/method.png)
 <!-- <img src="assets/teaser.gif" width="100%" alt="teaser"> -->
 
 
