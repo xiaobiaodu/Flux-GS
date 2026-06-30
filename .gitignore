@@ -3,8 +3,6 @@ output/
 tiny-cuda-nn/
 */__pycache__/*
 */*/__pycache__/*
-submodules/simple-knn/simple_knn.egg-info/PKG-INFO
 datasets/
-submodules
 .vscode
 .agents
