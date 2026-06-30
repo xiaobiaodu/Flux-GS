@@ -1,0 +1,10 @@
+websockets
+tqdm
+plyfile
+icecream
+dahuffman
+submodules/diff-gaussian-rasterization_fluxgs
+submodules/simple-knn
+submodules/fused-ssim
+git+https://github.com/NVlabs/tiny-cuda-nn/#subdirectory=bindings/torch
+--extra-index-url=https://pypi.nvidia.com "cudf-cu12==25.2.*" "cuml-cu12==25.2.*"
